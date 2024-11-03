@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    A passionate aspiring Software Engineer from India 🇮🇳
+    A passionate aspiring Software Engineer from India 🇮🇳, focused on full-stack development and solving real-world problems
 </p>
 
 
