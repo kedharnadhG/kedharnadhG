@@ -9,7 +9,7 @@
     A passionate aspiring Software Engineer from India 🇮🇳,
 </p>
 <p align="center">
-   focused on building scalable systems and solving real-world problems
+   focused on building scalable systems to solve real-world challenges
 </p>
 
 <br/>
