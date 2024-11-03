@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kedhar+Nadh!;" />
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kedhar+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Satisfy&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kedhar+Muniz!;" />
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kedhar+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kedhar+Muniz!;" />
 </h1>
 
 
